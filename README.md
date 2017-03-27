@@ -11,7 +11,6 @@ Welcome my friend!
 Since you got here, I believe you've already gone through the new employee entry procedure. And for those haven't, or even not being one of the
 [zaoshu](https://zaoshu.io) family (yet), you're welcomed too! We'd love to show you our engineering culture, work flow and coding style.
 
-
 ## Engineering 
 
 ### Agile Development
@@ -35,4 +34,10 @@ We're not fans of TDD but we believe unit test is a necessity...
 ## Coding Style
 
 ## Roadmap
+
+- [x] boot-camp documentation index
+- [ ] engineering
+- [ ] workflow
+- [ ] Tech-stack 
+- [ ] coding style 
 
