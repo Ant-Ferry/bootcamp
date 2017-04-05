@@ -23,11 +23,7 @@ We're not fans of TDD but we believe unit test is a necessity...
 
 ### Code Review
 
-### Continuous Integration/Deployment
-
 ## Workflow
-
-### Ideas and Requirements
 
 ## Tech-stack Metrics
 
@@ -38,6 +34,6 @@ We're not fans of TDD but we believe unit test is a necessity...
 - [x] boot-camp documentation index
 - [ ] engineering
 - [ ] workflow
-- [ ] Tech-stack 
+- [ ] tech-stack 
 - [ ] coding style 
 
