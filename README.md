@@ -17,6 +17,10 @@ Since you got here, I believe you've already gone through the new employee entry
 
 We use scrum in daily development for software life cycle management...
 
+### [Git](./engineering/git.md)(Hub)
+
+Codebase version control matters when we need to cooperate with multiple coders in a complex. We use GitHub to do that and we wanna do better. 
+
 ### Unit Test 
 
 We're not fans of TDD but we believe unit test is a necessity...
@@ -31,8 +35,12 @@ We're not fans of TDD but we believe unit test is a necessity...
 
 ## Roadmap
 
-- [x] boot-camp documentation index
+- [x] bootcamp documentation index
 - [ ] engineering
+    - [ ] agile
+    - [x] git
+    - [ ] unit test 
+    - [ ] code review 
 - [ ] workflow
 - [ ] tech-stack 
 - [ ] coding style 
