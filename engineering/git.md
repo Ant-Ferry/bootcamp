@@ -118,3 +118,10 @@ We use GitHub as our main Git working system and mostly we follow the GitHub Flo
 2. [Hello World](https://guides.github.com/activities/hello-world/)
 3. [Forking Projects](https://guides.github.com/activities/forking/)
 
+
+## Recommended Reading
+
+- [Git Tutorials](https://www.atlassian.com/git/tutorials) by Atlassian
+- [GitHub Guides](https://guides.github.com/) by GitHub
+- [GitHub Forking](https://gist.github.com/Chaser324/ce0505fbed06b947d962) by [Chase Pettit](https://gist.github.com/Chaser324)
+- [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) by John Wiegley

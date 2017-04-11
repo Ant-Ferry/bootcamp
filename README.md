@@ -1,6 +1,7 @@
 # Boot Camp 
 
-__*CAUTION: UNDER CONSTRUCTION*__
+__*CAUTION: UNDER CONSTRUCTION!*__
+__*Check the [roadmap](#roadmap) to get synced with the progress*__
 
 [简体中文](https://translate.google.com)
 
@@ -17,9 +18,9 @@ Since you got here, I believe you've already gone through the new employee entry
 
 We use scrum in daily development for software life cycle management...
 
-### [Git](./engineering/git.md)(Hub)
+### [Git](./engineering/git.md)
 
-Codebase version control matters when we need to cooperate with multiple coders in a complex. We use GitHub to do that and we wanna do better. 
+Codebase version control matters when we need to cooperate with multiple coders in a complex. We use Git(Hub) to do that and we wanna do better. 
 
 ### Unit Test 
 
@@ -33,6 +34,12 @@ We're not fans of TDD but we believe unit test is a necessity...
 
 ## Coding Style
 
+> Coding style is like life style: Be brave and reckless to try and fail.
+
+- [Go](./coding_style/go.md)
+- [Python](./coding_style/python.md)
+- [JavaScript](./coding_style/javascript.md)
+
 ## Roadmap
 
 - [x] bootcamp documentation index
@@ -44,4 +51,7 @@ We're not fans of TDD but we believe unit test is a necessity...
 - [ ] workflow
 - [ ] tech-stack 
 - [ ] coding style 
+    - [x] go
+    - [ ] python
+    - [ ] javascript
 
