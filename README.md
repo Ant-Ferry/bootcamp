@@ -36,7 +36,7 @@ We're not fans of TDD but we believe unit test is a necessity...
 
 > Coding style is like life style: Be brave and reckless to try and fail.
 
-- [Go](./coding_style/go.md)
+- [Go](./coding_style/go/index.md)
 - [Python](./coding_style/python.md)
 - [JavaScript](./coding_style/javascript.md)
 
