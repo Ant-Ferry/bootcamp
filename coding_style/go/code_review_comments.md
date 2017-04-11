@@ -1,5 +1,7 @@
 # Go Code Review Comments
 
+__*The following content is a copy of [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) at 20170411*__
+
 This page collects common comments made during reviews of Go code, so
 that a single detailed explanation can be referred to by shorthands.
 This is a laundry list of common mistakes, not a style guide.

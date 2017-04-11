@@ -1,6 +1,6 @@
 # Effective Go 
 
-__*The following content is a copy of [Effective Go](https://golang.org/doc/effective_go.html)*__
+__*The following content is a copy of [Effective Go](https://golang.org/doc/effective_go.html) at 2017041*__
 
 - [Introduction](#introduction)
 
