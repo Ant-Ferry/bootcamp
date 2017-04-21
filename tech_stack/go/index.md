@@ -1,4 +1,6 @@
-# Go Style 
+# Go 
+![go-logo-spider-bunnys](./img/spiderbunnys.jpg)
+Logo by [Renee French](http://reneefrench.blogspot.com/)
 
 ## Guides
 
@@ -87,3 +89,31 @@ gometalinter \
     In some special cases we will customize some linter like [GAS](https://github.com/GoASTScanner/gas). __*Make sure you know exactly what you're doing before apply your customization*__
 
 __*All pull request to major branches shall pass the Go Meta Linter validation before being pushed to the remote repository, otherwise it will fail the static validation in our Continous Integration, which means the PR will be rejected.*__
+
+## IDE&TextEditorPlugin
+
+Coding tools vary between developers in team and the listed are mostly used:
+
+
+* **[Gogland](https://www.jetbrains.com/go/)**: Jetbrains Golang IDE
+
+* **[Intellij IDEA](http://www.jetbrains.com/idea/)**: Commercial cross-platform IDE, [free Community Edition available](http://www.jetbrains.com/idea/download/index.html). [Open-Source plugin for Go](https://plugins.jetbrains.com/plugin/?id=5047) support available. All derivative platforms of IntelliJ (PyCharm, PhpStorm et al.) are supported. Nightly / alpha builds available at [plugin repository](https://github.com/go-lang-plugin-org/go-lang-idea-plugin)
+
+* **[Visual Studio Code](https://code.visualstudio.com/)**: Free & open source IDE by Microsoft. Visual Studio Code supports Go syntax highlighting out of the box. Additional features are provided by the [vscode-go](https://github.com/Microsoft/vscode-go) plugin.
+
+* **[Atom](http://www.atom.io)**: JavaScript-based editor from GitHub. Go support at [go-plus](https://github.com/joefitzgerald/go-plus)
+
+* **[Emacs](https://www.gnu.org/software/emacs/)**: Extensible and customizable text editor.
+    * Mode file maintained at https://github.com/dominikh/go-mode.el.
+    * [GoFlyMake](https://github.com/dougm/goflymake) Flymake-style syntax checking for Go
+    * [go-errcheck.el](https://github.com/dominikh/go-errcheck.el) Errcheck integration for Emacs
+
+* **[Vim](http://www.vim.org/)** & **[Neovim](https://neovim.io/)**: Vi Improved. There are a number of plugins available that make editing Go code easier.
+    * The [vim-go](https://github.com/fatih/vim-go) plugin includes misc/vim and has many other new improvements.
+    * The [Syntastic](https://github.com/scrooloose/syntastic) plugin gives instant feedback on compile errors
+    * The [tagbar](https://github.com/majutsushi/tagbar) plugin uses Gotags, above, to show an outline of the current file
+    * A [vim compiler plugin](https://github.com/rjohnsondev/vim-compiler-go) for syntax checking
+    * A [vim-godef](https://github.com/dgryski/vim-godef) plugin integrates with the 'godef' tool, above
+    * A [vim-go-extra](https://github.com/vim-jp/vim-go-extra) is vim plugin based on misc/vim in go repository. This works fine on windows too!
+
+Check [this](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins) out for more alternates.
