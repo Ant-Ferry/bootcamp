@@ -6,3 +6,4 @@
 
 * *[Dash](https://kapeli.com/dash)*: Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs. You can even generate your own docsets or request docsets to be included.
 
+* *[Homebrew](https://brew.sh/)*: The missing package manager for macOS.
