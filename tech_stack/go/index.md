@@ -1,6 +1,13 @@
 # Go 
-![go-logo-spider-bunnys](./img/spiderbunnys.jpg)
-Logo by [Renee French](http://reneefrench.blogspot.com/)
+
+<p align="center">
+<img src="./img/gopher.png" width="15%" align="right">
+
+- [Guides](#guides)
+- [Vendor](#vendor)
+- [Go Meta Linter](#go-meta-linter)
+- [IDE & TextEditorPlugin](#ide-texteditorplugin)
+</p>
 
 ## Guides
 
@@ -90,7 +97,7 @@ gometalinter \
 
 __*All pull request to major branches shall pass the Go Meta Linter validation before being pushed to the remote repository, otherwise it will fail the static validation in our Continous Integration, which means the PR will be rejected.*__
 
-## IDE&TextEditorPlugin
+## IDE & TextEditorPlugin
 
 Coding tools vary between developers in team and the listed are mostly used:
 
@@ -117,3 +124,11 @@ Coding tools vary between developers in team and the listed are mostly used:
     * A [vim-go-extra](https://github.com/vim-jp/vim-go-extra) is vim plugin based on misc/vim in go repository. This works fine on windows too!
 
 Check [this](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins) out for more alternates.
+
+## More
+
+Go get the gopher!
+
+<img src="./img/spiderbunnys.jpg" width="50%">
+
+by [Renee French](http://reneefrench.blogspot.com/)

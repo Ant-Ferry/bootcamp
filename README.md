@@ -32,9 +32,9 @@ Codebase version control matters when we need to cooperate with multiple coders 
 
 ### Language
 
-- [Go](./tech_stack/go/index.md)
-- [Python](./tech_stack/python.md)
-- [JavaScript](./tech_stack/javascript.md)
+- [<img src="./tech_stack/go/img/gopher.png" width="4%"> Go](./tech_stack/go/index.md)
+- <img src="./tech_stack/python/img/python-logo.png" width="4%"> Python
+- <img src="./tech_stack/javascript/img/js-eu.png" width="4%"> JavaScript
 
 ## DevOps
 

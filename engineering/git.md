@@ -112,7 +112,7 @@ __P.S. this may take you more than 30 minutes to complete. If you get the rough 
 
 ## GitHub Workflow
 
-We use GitHub as our main Git working system and mostly we follow the GitHub Flow. Read the following guide articles by GitHub to learn.
+We use [<img src="./img/github-octocat.png" width="7%">GitHub](https://github.com) as our main Git working system and mostly we follow the GitHub Flow. Read the following guide articles by GitHub to learn.
 
 1. [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 2. [Hello World](https://guides.github.com/activities/hello-world/)
