@@ -18,7 +18,7 @@ Since you got here, I believe you've already gone through the new employee entry
 
 We use scrum in daily development for software life cycle management...
 
-### [Git](./engineering/git.md)
+### [Git <img src="./engineering/img/git-icon-1788c.png" width="3%">](./engineering/git.md) 
 
 Codebase version control matters when we need to cooperate with multiple coders in a complex. We use Git(Hub) to do that and we wanna do better. 
 
