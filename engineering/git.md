@@ -1,6 +1,6 @@
 # Git(Hub)
 
-Codebase version control matters when we need to cooperate with multiple coders in a complex. We use GitHub to do that and we wanna do better. 
+Codebase version control matters when we need to cooperate with multiple coders in a complex. We use Git(Hub) to do that and we wanna do better. 
 
 ## Version Control 
 
@@ -12,7 +12,7 @@ You will learn more in the referred article [What is version control](https://ww
 
 ## Git
 
-There are many source version control system and the reason we use Git is that we (core developers) use it since day one. 
+There are many source version control system and the reason we use [Git](https://git-scm.com/) is that we (core developers) use it since day one. 
 
 ### Intro
 
@@ -125,3 +125,7 @@ We use GitHub as our main Git working system and mostly we follow the GitHub Flo
 - [GitHub Guides](https://guides.github.com/) by GitHub
 - [GitHub Forking](https://gist.github.com/Chaser324/ce0505fbed06b947d962) by [Chase Pettit](https://gist.github.com/Chaser324)
 - [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) by John Wiegley
+
+## More
+
+- [Git GUI Clients](https://git-scm.com/downloads/guis/)
