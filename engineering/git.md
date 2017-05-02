@@ -2,6 +2,16 @@
 
 Codebase version control matters when we need to cooperate with multiple coders in a complex. We use [<img src="./img/git-logo-2color.png" width="10%"> ](https://git-scm.com/) to do that and we wanna do better. 
 
+- [Version Control](#version-control)
+- [Learn Git](#learn-git)
+    - [Basics](#basics)
+    - [Get Some Practice!](#get-some-practice)
+    - [Learn Git Branching!](#learn-git-branching)
+    - [Get Some Practice!](#get-some-practice)
+- [GitHub Workflow](#github-workflow)
+- [Recommended Reading](#recommended-reading)
+- [More](#more)
+
 ## Version Control 
 
 First thing first, the critical importance of version control shall be awared. 
@@ -10,7 +20,7 @@ First thing first, the critical importance of version control shall be awared.
 
 You will learn more in the referred article [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control).
 
-## Git
+## Learn Git
 
 There are many source version control system and the reason we use Git is that we (core developers) use it since day one. 
 
