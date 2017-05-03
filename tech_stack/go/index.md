@@ -7,6 +7,7 @@
 - [Vendor](#vendor)
 - [Go Meta Linter](#go-meta-linter)
 - [IDE & TextEditorPlugin](#ide-texteditorplugin)
+
 </p>
 
 ## Guides
