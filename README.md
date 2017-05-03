@@ -30,9 +30,10 @@ Codebase version control matters when we need to cooperate with multiple coders 
 
 ### Language
 
-- [<img src="./tech_stack/go/img/gopher.png" width="4%"> Go](./tech_stack/go/index.md)
-- <img src="./tech_stack/python/img/python-logo.png" width="4%"> Python
-- <img src="./tech_stack/ecmascript/img/es-logo-1997.png" width="4%"> ECMAScript
+- [<img src="./tech_stack/markdown/img/identifier-208x128-solid.png" width="2%"> Markdown](./tech_stack/markdown/index.md)
+- [<img src="./tech_stack/go/img/gopher.png" width="2%"> Go](./tech_stack/go/index.md)
+- <img src="./tech_stack/python/img/python-logo.png" width="2%"> Python
+- <img src="./tech_stack/ecmascript/img/es-logo-1997.png" width="2%"> ECMAScript
 
 ## DevOps
 
@@ -64,6 +65,7 @@ Our daily productivity apps & tools.
 - [ ] QA 
 - [ ] tech-stack
     - [ ] language
+        - [x] markdown
         - [x] go
         - [ ] python
         - [ ] ecmascript
