@@ -14,19 +14,19 @@ Since you got here, I believe you've already gone through the new employee entry
 
 ## Engineering 
 
-### Agile Development
+### 1. [Teamwork](./engineering/teamwork.md)
+
+### 2. [Agile Development](./engineering/agile.md)
 
 We use scrum in daily development for software life cycle management...
 
-### [Git <img src="./engineering/img/git-icon-1788c.png" width="3%">](./engineering/git.md) 
+### 3. [Git <img src="./engineering/img/git-icon-1788c.png" width="3%">](./engineering/git.md) 
 
 Codebase version control matters when we need to cooperate with multiple coders in a complex. We use Git(Hub) to do that and we wanna do better. 
 
-### Code Review
+### 4. [Workflow](./engineering/workflow.md)
 
-### Workflow
-
-### Teamwork
+### 5. Code Review
 
 ## Tech-stack
 
@@ -49,20 +49,22 @@ Codebase version control matters when we need to cooperate with multiple coders 
 Our daily productivity apps & tools. 
 
 - [General](./toolkit/general.md)
-- [MacOS](./toolkit/macos.md)
+- [MacOS](./toolkit/macos.md)
 
 ## Roadmap
 
 - [x] bootcamp documentation index
 - [ ] engineering
-    - [ ] agile
-    - [x] git
-    - [ ] code review 
-    - [ ] workflow
     - [ ] teamwork
         - [ ] face2face
         - [ ] slack
         - [ ] email 
+    - [ ] agile
+    - [x] git
+    - [ ] workflow
+    - [ ] code review 
+- [ ] devops
+- [ ] QA 
 - [ ] tech-stack
     - [ ] language
         - [x] go
