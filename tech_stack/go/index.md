@@ -3,10 +3,10 @@
 <p align="center">
 <img src="./img/gopher.png" width="15%" align="right">
 <ul>
-<li><a href="#guides">Guides</a>
-<li><a href="#vendor">Vendor</a>
-<li><a href="#go-meta-linter">Go Meta Linter</a>
-<li><a href="#ide-texteditorplugin">IDE & TextEditorPlugin</a>
+<li><a href="#guides">Guides</a></li>
+<li><a href="#vendor">Vendor</a></li>
+<li><a href="#go-meta-linter">Go Meta Linter</a></li>
+<li><a href="#ide-texteditorplugin">IDE & TextEditorPlugin</a></li>
 </ul>
 </p>
 
