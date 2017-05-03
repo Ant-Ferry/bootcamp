@@ -8,13 +8,16 @@
 Progress:
 
 - [ ] Engineering
-    - [ ] Agile Development
+    - [ ] Teamwork
+    - [ ] Agile Dev
     - [ ] Git
-    - [ ] Unit Test
-    - [ ] Code Review
-- [ ] Workflow
-- [ ] Coding Style (Please delete the items you are not requried to master)
-    - [ ] Go
-    - [ ] Python
-    - [ ] JavaScript
-- [ ] Tech-stack Metrics 
+    - [ ] Workflow 
+- [ ] Tech-stack (Please delete the items you are not requried to master)
+    - [ ] Language
+        - [ ] Go
+        - [ ] Python
+        - [ ] ECMAScript 
+    - [ ] Storage\Filesystem
+        - [ ] PostgreSQL
+        - [ ] Redis
+    - [ ] Microservice

@@ -10,7 +10,7 @@ __*Check the [roadmap](#roadmap) to get synced with the progress*__
 Welcome my friend! 
 
 Since you got here, I believe you've already gone through the new employee entry procedure. And for those haven't, or even not being one of the
-[zaoshu](https://zaoshu.io) family (yet), you're welcomed too! We'd love to show you our engineering culture, work flow and coding style.
+[zaoshu](https://zaoshu.io) family (yet), you're welcomed too! We'd love to show you our engineering methodology, workflow and coding style.
 
 ## Engineering 
 
@@ -25,8 +25,6 @@ We use scrum in daily development for software life cycle management...
 Codebase version control matters when we need to cooperate with multiple coders in a complex. We use Git(Hub) to do that and we wanna do better. 
 
 ### 4. [Workflow](./engineering/workflow.md)
-
-### 5. Code Review
 
 ## Tech-stack
 
@@ -62,18 +60,19 @@ Our daily productivity apps & tools.
     - [ ] agile
     - [x] git
     - [ ] workflow
-    - [ ] code review 
 - [ ] devops
 - [ ] QA 
 - [ ] tech-stack
     - [ ] language
         - [x] go
         - [ ] python
+        - [ ] ecmascript
     - [ ] storage\filesystem
         - [ ] postgresql
         - [ ] redis
         - [ ] hbase
     - [ ] microservice
 - [ ] toolkit 
+    - [x] general
     - [x] macos
 
