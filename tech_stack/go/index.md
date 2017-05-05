@@ -16,7 +16,7 @@ Basicly we follow the official documentation and guides.
 
 - [Official Go Wiki [source]](https://github.com/golang/go/wiki)
 - [Effective Go](./effective_go.md) [[source]](https://golang.org/doc/effective_go.html)
-- [Go Code Review Comments](./go_code_review_comments.md) [[source]](https://github.com/golang/go/wiki/CodeReviewComments)
+- [Go Code Review Comments](./code_review_comments.md) [[source]](https://github.com/golang/go/wiki/CodeReviewComments)
 
 __*P.S. Make sure that you go through the whole listed docs*__
 
