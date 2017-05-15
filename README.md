@@ -1,4 +1,4 @@
-# Boot Camp 
+# BootCamp 
 
 __*CAUTION: UNDER CONSTRUCTION!*__
 __*Check the [roadmap](#roadmap) to get synced with the progress*__
@@ -30,10 +30,10 @@ Codebase version control matters when we need to cooperate with multiple coders 
 
 ### Language
 
-- [<img src="./tech_stack/markdown/img/identifier-208x128-solid.png" width="2%"> Markdown](./tech_stack/markdown/index.md)
-- [<img src="./tech_stack/go/img/gopher.png" width="2%"> Go](./tech_stack/go/index.md)
-- <img src="./tech_stack/python/img/python-logo.png" width="2%"> Python
-- <img src="./tech_stack/ecmascript/img/es-logo-1997.png" width="2%"> ECMAScript
+- [Markdown <img src="./tech_stack/markdown/img/identifier-208x128-solid.png" width="2%">](./tech_stack/markdown/index.md)
+- [Go <img src="./tech_stack/go/img/gopher.png" width="2%">](./tech_stack/go/index.md)
+- Python <img src="./tech_stack/python/img/python-logo.png" width="2%">
+- ECMAScript <img src="./tech_stack/ecmascript/img/es-logo-1997.png" width="2%"> 
 
 ## DevOps
 

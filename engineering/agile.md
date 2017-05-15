@@ -1,1 +1,3 @@
 # Agile Development 
+
+We use scrum in daily development for software life cycle management...
