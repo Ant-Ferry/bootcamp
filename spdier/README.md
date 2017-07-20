@@ -20,7 +20,7 @@
 > 因为模拟浏览器的各种行为，最后相当于写了一个浏览器，不如一步到位。
 
 #### Without framework
-> 因为历史原因，我们有一些项目是没有使用爬虫框架写的，新开的项目一般不允许不适用框架了，比如一般框架现成的失败重试机制，需要手写的话非常浪费时间。
+> 因为历史原因，我们有一些项目是没有使用爬虫框架写的，新开的项目一般不允许不使用框架了，比如一般框架现成的失败重试机制，需要手写的话非常浪费时间。
 
 ### Git
 > 团队内部使用Git进行版本管理，[统一读法请点这里](http://dict.youdao.com/dictvoice?audio=git&type=1)，请不要读`G-I-T`。
@@ -45,5 +45,4 @@ git apply patch
 
 #### 多人协作
 > 请阅读[Github workflow](https://guides.github.com/introduction/flow/)
-
 
