@@ -26,6 +26,17 @@ The model is detailed in [_A Successful Git Branching Model_](./a-successful-git
 
 Read the whole article and __MAKE SURE YOU ARE VERY FAMILIAR WITH IT__.
 
+__ATTENTION:__ We use convention like `feature/new-parser`, which separate prefix and subject with `/` but `-`, which used by the original article in branch naming.
+
+The valid retained prefixes are listed below:
+
+- `feature/`
+- `release/`
+- `hotfix/`
+- `support/`
+
+You can setup and operate the whole git work flow by using [gitflow](https://github.com/nvie/gitflow) created by Vincent.
+
 ### Commit Message
 
 Writing meaningful and well-constructed commit messages is important. Good commit messages serve at least three purposes:
@@ -46,6 +57,8 @@ And it's quite easy to write a good commit message by following [The Six Rules](
 6.  [Use the body to explain _what_ and _why_ vs. _how_](#why-not-how)
 
 Please go through the list and __MAKE SURE YOU ARE VERY FAMILIAR WITH IT!!__ And you can find the full article [How To Write A Git Commit Message](./how-to-write-a-git-commit-message/article.md) by [Chris Beams](https://github.com/cbeams).
+
+__ATTENTION:__ You can use these [commit message template](https://github.com/zaoshu/gitmatic/tree/master/templates) or just auto configure them with [Gitmatic](https://github.com/zaoshu/gitmatic).
 
 > P.S.
 > If it seems difficult to summarize what your commit does, it may be because it includes several logical changes or bug fixes, and are better split up into several commits using `git add -p`.
