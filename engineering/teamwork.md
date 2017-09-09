@@ -25,7 +25,7 @@ There're some reasons:
 
 ### How To
 
-Just go and talk directly. If there's a gap ahead you've sensed, go find someone else (like your leader) togather.
+Just go and talk directly. If there's a gap ahead you've sensed, go find someone else (like your leader) together.
 
 ### When To
 

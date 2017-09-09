@@ -54,13 +54,13 @@ Our daily productivity apps & tools.
 
 - [x] bootcamp documentation index
 - [ ] engineering
-    - [ ] teamwork
-        - [ ] face2face
-        - [ ] slack
-        - [ ] email 
+    - [x] teamwork
+        - [x] face2face
+        - [x] slack
+        - [x] email 
     - [ ] agile
     - [x] git
-    - [ ] workflow
+    - [x] workflow
 - [ ] devops
 - [ ] QA 
 - [ ] tech-stack
@@ -74,7 +74,6 @@ Our daily productivity apps & tools.
         - [ ] redis
         - [ ] hbase
     - [ ] microservice
-- [ ] toolkit 
+- [x] toolkit 
     - [x] general
     - [x] macos
-

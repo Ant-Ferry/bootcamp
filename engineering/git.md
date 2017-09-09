@@ -8,6 +8,7 @@ Codebase version control matters when we need to cooperate with multiple coders 
     - [Get Some Practice!](#get-some-practice)
     - [Learn Git Branching!](#learn-git-branching)
     - [Get Some Practice!](#get-some-practice)
+- [Gitmatic](#git-message)
 - [GitHub Workflow](#github-workflow)
 - [Recommended Reading](#recommended-reading)
 - [More](#more)
@@ -118,7 +119,6 @@ Finish the [15 Minutes Try Git Challenges](https://try.github.io/) before diving
 Practice makes perfects, Finish the [Learn Git Branching](http://learngitbranching.js.org/). 
 
 __P.S. this may take you more than 30 minutes to complete. If you get the rough idea of what branch is, make sure you finish this.__
-
 
 ## GitHub Workflow
 

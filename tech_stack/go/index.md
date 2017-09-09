@@ -96,7 +96,7 @@ gometalinter \
 
     In some special cases we will customize some linter like [GAS](https://github.com/GoASTScanner/gas). __*Make sure you know exactly what you're doing before apply your customization*__
 
-__*All pull request to major branches shall pass the Go Meta Linter validation before being pushed to the remote repository, otherwise it will fail the static validation in our Continous Integration, which means the PR will be rejected.*__
+__*All pull requests to major branches shall pass the Go Meta Linter validation before being pushed to the remote repository, otherwise it will fail the static validation in our Continous Integration, which means the PR will be rejected.*__
 
 ## IDE & TextEditorPlugin
 
